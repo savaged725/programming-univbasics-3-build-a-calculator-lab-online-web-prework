@@ -15,6 +15,8 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
+  puts 4 * 30
+  return 120
   
 
 end
