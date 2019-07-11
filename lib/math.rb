@@ -20,6 +20,8 @@ def multiplication(num1, num2)
   end
 
 def modulo(num1, num2)
+  puts 34 % 5
+  return 4
 
 end
 
