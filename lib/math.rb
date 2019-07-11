@@ -17,9 +17,7 @@ end
 def multiplication(num1, num2)
   puts 4 * 30
   return 120
-  
-
-end
+  end
 
 def modulo(num1, num2)
 
